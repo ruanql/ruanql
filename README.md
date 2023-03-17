@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruan</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
-<img align="right" src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b76117212412a8305f86bfa9dd4391d21dd4cdd714a9a&rid=giphy.gif&ct=g" alt="coding" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruanql&label=Profile%20views&color=0e75b6&style=flat" alt="ruanql" /> </p>
 
