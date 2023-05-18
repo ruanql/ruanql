@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruanql&label=Profile%20views&color=0e75b6&style=flat" alt="ruanql" /> </p>
 
-- 🔭 I’m currently working on **Typescrit projects**
+- 🔭 I’m currently working on **Typescript projects**
 
 - 🌱 I’m currently learning **Vue, Go**
 
