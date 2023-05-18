@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Typescrit projects**
 
-- 🌱 I’m currently learning **Vue, Tailwindcss**
+- 🌱 I’m currently learning **Vue, Go**
 
-- 💬 Ask me about **react, css and js**
+- 💬 Ask me about **react, css, js and everything about AI**
 
 - 📫 How to reach me **ruanqzlt@gmail.com**
 
