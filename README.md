@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ruanql" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ruanql" height="30" width="40" /></a>
+<a href="https://dev.to/ruanql" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DevTo-Dark.svg" alt="ruanql" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ruanqueiroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruan.queiroz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ruanql" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ruanql" height="30" width="40" /></a>
 <a href="https://instagram.com/ruanqueirozl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruanqueirozl" height="30" width="40" /></a>
