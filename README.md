@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Typescript projects**
 
-- 🌱 I’m currently learning **Vue, Go**
+- 🌱 I’m currently learning **Svelte, Go and Rust**
 
 - 💬 Ask me about **react, css, js and everything about AI**
 
